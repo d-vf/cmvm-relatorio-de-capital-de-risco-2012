@@ -1,0 +1,6 @@
+Tipo de Vinculacao,N.. de Operacoes SCR,Valorizacao em Carteira SCR,N.. de Operacoes FCR,Valorizacao em Carteira FCR,N.. de Operacoes Total,Valorizacao em Carteira Total
+Opcao europeia (exercicio na maturidade),4,0,81,18479.3,85,18479.3
+Opcao americana (exercicio a qualquer momento),9,-1412.6,113,-10927.5,122,-12340.1
+Outras opcoes ,1,0,55,42297.5,56,42297.5
+Obrigacao (futuro/forward),16,-823.4,87,16195,103,15371.6
+Total,30,-2236,336,66044.3,366,63808.3
